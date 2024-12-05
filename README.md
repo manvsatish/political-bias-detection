@@ -31,7 +31,9 @@ This script uses the Hugging Face Transformers library and a fine-tuned BERT mod
 
 ### Example Output
 Document: Absences by Trump’s Senate pals help Democrats confirm Biden judges 
+
 CNN Article, Left-leaning (https://adfontesmedia.com/interactive-media-bias-chart/) 
+
 Probabilities Format: [Left, Center, Right]
 ```
 Text: A ##bs ##ence ##s by Trump ' s Senate p ##als help Democrats confirm B...
