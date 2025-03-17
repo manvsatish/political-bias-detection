@@ -1,4 +1,4 @@
-# AI Driven Political Bias Detection and Analysis - Hugging Face
+# AI Driven Political Bias Detection and Analysis
 
 ## Abstract
 This project investigates the effectiveness of AI-driven tools in detecting and categorizing political bias in news and social media content. By leveraging models such as GPT-4, VADER, and PoliticalBiasBERT, we analyze their ability to identify linguistic patterns and emotional tones that signal left-leaning, center, or right-leaning biases. Using a curated dataset of political articles, social media posts, and candidate statements, we evaluate the accuracy and limitations of these tools in politically sensitive contexts. Our findings reveal that while these tools excel at detecting overt biases, they struggle with nuanced or neutral content. We recommend combining multiple models, refining training data, and incorporating human oversight to enhance the reliability and interpretability of AI in political bias detection. This study provides valuable insights into the potential and challenges of using AI for promoting fairness and transparency in political discourse.
